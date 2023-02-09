@@ -132,7 +132,6 @@
 }
 /* элементы, которые используются на page repeat */
 .section-title {
-  margin: 0;
   padding: 0;
   width: 60%;
   margin: auto;
@@ -143,7 +142,6 @@
   margin-bottom: 20px;
 }
 .section-subtitle {
-  margin: 0;
   padding: 0;
   width: 60%;
   margin: auto;
@@ -153,7 +151,6 @@
   font-weight: normal;
 }
 .table {
-  margin: 0;
   padding: 0;
   display: flex;
   justify-content: space-between;
@@ -168,7 +165,6 @@
   display: flex;
   flex-direction: column;
   width: 250px;
-
 }
 .table__heading {
   margin: 0;
